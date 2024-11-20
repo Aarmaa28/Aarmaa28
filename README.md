@@ -1,6 +1,5 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2332CD32&size=30&lines=Hello%2C+I'm+Aarmaa28!+%F0%9F%91%8B" alt="Aarmaa28" />
 
-[![GitHub followers](https://img.shields.io/github/followers/Aarmaa28?label=Follow&style=social)](https://github.com/Aarmaa28)
 ![Profile views](https://komarev.com/ghpvc/?username=Aarmaa28)
 
 ## 🛠 Skills
