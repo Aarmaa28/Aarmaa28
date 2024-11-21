@@ -6,6 +6,7 @@
 
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="20" height="20"/> **JavaScript**
 - <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="20" height="20"/> **Python**
+- <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="20" height="20"/> **Node.js**
 
 ## 📫 Connect with me
 
