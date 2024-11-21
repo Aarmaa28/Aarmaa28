@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aarmaa28&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&hide_progress=true&size_weight=0.5&count_weight=0.5" alt="Aarmaa28" />
+      <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=Aarmaa28&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Aarmaa28" />
     </td>
   </tr>
   <tr>
