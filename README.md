@@ -4,7 +4,7 @@
 
 ## 🛠 Skills
 
-- <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="20" height="20"/> **JavaScript**
+- <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="20" height="20"/> **Javascript**
 - <img src="https://skillicons.dev/icons?i=python" alt="Python" width="20" height="20"/> **Python**
 - <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="20" height="20"/> **Node.js**
 
